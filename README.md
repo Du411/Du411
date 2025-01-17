@@ -14,9 +14,9 @@
 
 ### 🛠 Skills
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4>Programming Languages</h4>
       <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
       </p>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4>Frameworks & Tools</h4>
       <p align="left">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
