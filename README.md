@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chun-Fu ( Jim) Du</h1>
-<h4 align="left">I graduated with Master's degree in Information Management from National Central University in July 2024. With one year of experiance as a Software Engineer Intern at Garmin. I have strong passionate about Backend and Cloud development.</h4>
+<h4 align="left">I graduated with Master's degree in Information Management from National Central University in July 2024. With one year experiance as a Software Engineer Intern at Garmin. I have strong passionate about Backend and Cloud development.</h4>
 
 
 
